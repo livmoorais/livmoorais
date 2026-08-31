@@ -1,79 +1,130 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F8E1E7&height=180&section=header&text=L%C3%ADvia%20Morais%20%E2%99%A1&fontSize=42&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=computer%20science%20student%20%E2%80%A2%20girl%20in%20tech&descAlignY=62&descSize=16"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%E2%99%A1;Future+Software+Developer;Learning+%26+Building;Technology+%E2%80%A2+Creativity+%E2%80%A2+Ideas" alt="Typing Animation"/>
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F8E1E7&height=190&section=header&text=L%C3%ADvia%20Morais%20%E2%99%A1&fontSize=40&fontColor=1A1A1A&animation=fadeIn&fontAlignY=40&desc=computer%20science%20student%20%E2%80%A2%20girl%20in%20tech&descAlignY=62&descSize=15"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=560&lines=Computer+Science+Student+%E2%99%A1;Future+Developer;Technical+Support+Professional;Learning+IT+%26+Security" alt="Typing Animation"/>
+
+<br/>
+
+<sub>✦ &nbsp; PINK CLAY &nbsp; · &nbsp; SANDSTONE &nbsp; · &nbsp; CHARCOAL &nbsp; · &nbsp; ROSE GOLD &nbsp; ✦</sub>
+
 </div>
+
+<br/>
+
+<div align="center">
+
+### ♡ about me
+
+</div>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="18">
+<tr>
+<td width="100%" style="background-color:#F5EEDF; border-radius:14px;" valign="top">
+
+&nbsp;&nbsp;Olá! Eu sou a *Lívia Morais* ♡
+
+&nbsp;&nbsp;Sou estudante de *Ciência da Computação*, apaixonada por tecnologia e organização criativa.
+
+&nbsp;&nbsp;Atualmente trabalho como *Suporte Técnico*, unindo resolução de problemas no dia a dia com uma curiosidade constante por aprender coisas novas.
+
+&nbsp;&nbsp;Gosto de pensar em tecnologia como um espaço para criar com método — onde cada projeto tem lugar certo, assim como uma mesa bem organizada. ✦
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+*✦ certificações*
+
+<img src="https://img.shields.io/badge/ITIL%204-Foundation-F8E1E7?style=for-the-badge&logoColor=1A1A1A&labelColor=1A1A1A"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security-F8E1E7?style=for-the-badge&logoColor=1A1A1A&labelColor=1A1A1A"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ⸻
 
-<div align="center">
+### ✦ applications & tools
 
-♡ about me
+<br/>
 
-</div>
-
-Olá! Eu sou a Lívia Morais ♡
-
-Sou estudante de Ciência da Computação, apaixonada por tecnologia, programação e tudo que envolve criatividade e inovação.
-
-Atualmente estou construindo minha base na área de desenvolvimento, aprendendo novas linguagens, ferramentas e conceitos enquanto descubro quais caminhos dentro da tecnologia mais combinam comigo.
-
-Gosto de unir tecnologia + criatividade + organização, e acredito que código também pode ter personalidade. ✦
-
-<br>
-<div align="center">
-
-computer science student
-future developer
-always learning ♡
+<img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=F8E1E7"/>
+<img src="https://img.shields.io/badge/JavaScript-F8E1E7?style=for-the-badge&logo=javascript&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=F8E1E7"/>
+<img src="https://img.shields.io/badge/CSS3-F8E1E7?style=for-the-badge&logo=css3&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F8E1E7"/>
+<img src="https://img.shields.io/badge/GitHub-F8E1E7?style=for-the-badge&logo=github&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=F8E1E7"/>
+<img src="https://img.shields.io/badge/VS_Code-F8E1E7?style=for-the-badge&logo=visualstudiocode&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Eclipse-1A1A1A?style=for-the-badge&logo=eclipseide&logoColor=F8E1E7"/>
+<img src="https://img.shields.io/badge/Figma-F8E1E7?style=for-the-badge&logo=figma&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Canva-1A1A1A?style=for-the-badge&logo=canva&logoColor=F8E1E7"/>
+<img src="https://img.shields.io/badge/macOS-F5EEDF?style=for-the-badge&logo=apple&logoColor=1A1A1A"/>
 
 </div>
+
+<br/>
+
+<div align="center">
 
 ⸻
 
-<div align="center">
+### ♡ currently learning
 
-✦ applications & tools
+<br/>
 
-<br>
-<img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=FFB6C1"/>
-<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=1A1A1A"/>
-<img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=FFB6C1"/>
-<img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=1A1A1A"/>
-<img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FFB6C1"/>
-<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=1A1A1A"/>
-<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FFB6C1"/>
-<img src="https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=1A1A1A"/>
-<img src="https://img.shields.io/badge/Eclipse-1A1A1A?style=for-the-badge&logo=eclipseide&logoColor=FFB6C1"/>
-<img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=1A1A1A"/>
-<img src="https://img.shields.io/badge/Canva-1A1A1A?style=for-the-badge&logo=canva&logoColor=FFB6C1"/>
-<img src="https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=1A1A1A"/>
+Java &nbsp; ✦ &nbsp; JavaScript &nbsp; ✦ &nbsp; HTML &nbsp; ✦ &nbsp; CSS &nbsp; ✦ &nbsp; MySQL
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3600&pause=1200&color=D4AF37&center=true&vCenter=true&width=500&lines=learning+something+new+every+day+%E2%99%A1;one+line+of+code+at+a+time...;building+my+developer+era+%E2%9C%A6" alt="Currently learning"/>
+
 </div>
+
+<br/>
+
+<div align="center">
 
 ⸻
 
-<div align="center">
+### ♡ let's connect
 
-♡ currently learning
+<br/>
 
-<br>
+<a href="https://www.linkedin.com/in/lívia-morais-906176360">
+<img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=F8E1E7"/>
+</a>
+&nbsp;
+<a href="mailto:liviasmorais2428@gmail.com">
+<img src="https://img.shields.io/badge/Email-F8E1E7?style=for-the-badge&logo=gmail&logoColor=1A1A1A"/>
+</a>
 
-Java   ✦   JavaScript   ✦   HTML   ✦   CSS   ✦   MySQL
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=FFB6C1&center=true&vCenter=true&width=500&lines=learning+something+new+every+day+%E2%99%A1;one+line+of+code+at+a+time...;loading+my+developer+era+%E2%9C%A6" alt="Currently learning"/>
 </div>
+
+<br/>
+
+<div align="center">
 
 ⸻
 
-<div align="center">
-<br>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160">
+<br/>
 
 ♡ thanks for visiting my little corner of GitHub ♡
 
-made with code & a little bit of pink
+<sub>made with code, clay pink & a little gold</sub>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8E1E7&height=100&section=footer"/>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F8E1E7&height=100&section=footer"/>
+
 </div>
