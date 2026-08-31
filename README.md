@@ -95,7 +95,6 @@ Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que real
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF6F9&ring=F7A8C4&fire=E8A54B&currStreakLabel=F7A8C4" width="60%" />
 
 </div>
 
