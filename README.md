@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1>˚ ✦ LM ♡ ✦ ˚</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Lívia%20Morais&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=computer%20science%20student%20·%20girl%20in%20tech&descAlignY=60&descSize=18" width="100%"/>
 
-<h3>Lívia Morais</h3>
-
-computer science student · girl in tech
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&pause=1200&color=F7A8C4&center=true&vCenter=true&width=440&lines=exploring+web+design+%E2%9C%A6;learning+something+new+every+day;code+%2B+creativity+%2B+aesthetics" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&pause=1200&color=F7A8C4&center=true&vCenter=true&width=440&lines=exploring+web+design+%E2%9C%A6;learning+something+new+every+day;code+%2B+creativity+%2B+aesthetics;LM+♡" />
 
 <br/>
 
@@ -90,11 +86,7 @@ Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=livmoorais&show_icons=true&hide_border=true&bg_color=FFF6F9&title_color=F7A8C4&icon_color=E8A54B&text_color=8A7F8D" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmoorais&layout=compact&hide_border=true&bg_color=FFF6F9&title_color=F7A8C4&text_color=8A7F8D" width="48%" />
-
-<br/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF6F9&ring=F7A8C4&fire=E8A54B&currStreakLabel=F7A8C4" width="60%" />
 
 </div>
 
@@ -112,7 +104,14 @@ Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que real
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer" width="100%"/>
+
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livmoorais/livmoorais/output/pink-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/livmoorais/livmoorais/output/pink-snake.svg" width="80%" />
+</picture>
 
 ♡ ✦ ♡
 
