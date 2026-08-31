@@ -1,239 +1,150 @@
-[8:29 PM, 31/08/2026] Lívia: <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Lívia%20Morais&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=computer%20science%20student%20·%20girl%20in%20tech&descAlignY=60&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=L%C3%ADvia%20Morais&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Girl%20in%20Tech%20%F0%9F%8E%80%20Curiosa%20%7C%20Criativa%20%7C%20Rosa%20sempre&descAlignY=58&descSize=18&animation=twinkling" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&pause=1200&color=F7A8C4&center=true&vCenter=true&width=440&lines=exploring+web+design+%E2%9C%A6;learning+something+new+every+day;code+%2B+creativity+%2B+aesthetics;LM+♡" />
+<!-- SIGLAS ESTILIZADAS -->
+<img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=45&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&height=80&lines=L.M." alt="LM"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/livmoorais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF3D6?style=for-the-badge&logo=linkedin&logoColor=E8A54B)](https://www.linkedin.com/in/lívia-morais-906176360/)
-[![Email](https://img.shields.io/badge/Email-FFE5EC?style=for-the-badge&logo=gmail&logoColor=F7A8C4)](mailto:liviasmorais2428@gmail.com)
+<img src="https://media.giphy.com/media/vFKqfRQjNe4gaC2Yw3/giphy.gif" width="180" alt="hello kitty y2k gif"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+L%C3%ADvia!+%F0%9F%8E%80;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Suporte+T%C3%A9cnico+%7C+Cyber+%26+Curiosidade+%F0%9F%94%90;Codando+com+brilho+e+prop%C3%B3sito+%E2%9C%A8" alt="typing svg"/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 </div>
 
 <br/>
 
-<h2>♡ sobre mim</h2>
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/pink-heart_1f49f.png" width="28"/> Sobre mim
 
-Sou Lívia, estudante de Ciência da Computação e atualmente trabalho com suporte técnico.
+<table align="center" border="0" cellspacing="0" cellpadding="15">
+<tr>
+<td width="55%" valign="top">
 
-Estou explorando diferentes áreas da tecnologia para descobrir qual caminho combina comigo.
+yaml
+Perfil:
+  nome: "Lívia Morais"
+  formação: "Ciência da Computação"
+  atuação_atual: "Suporte Técnico"
+  traços: ["curiosa 🔎", "criativa 🎨", "sempre estudando 📚"]
+  paixões: ["Web Design", "Segurança da Informação", "estética + código"]
+  status: "construindo coisas fofas e funcionais 🩰"
 
-Tenho interesse em Web Design, interfaces, programação, desenvolvimento e tecnologia.
 
-Gosto de projetos que misturam código, criatividade e estética.
+</td>
+<td width="45%" valign="top" align="center">
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<h2>✦ interesses</h2>
-
-Web Design · Programação · Interfaces · Desenvolvimento
-
-Tecnologia · Segurança da Informação · Criatividade
-
-<br/>
-
-<h2>⌘ tecnologias</h2>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-FFE5EC?style=for-the-badge&logo=openjdk&logoColor=F7A8C4)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF3D6?style=for-the-badge&logo=javascript&logoColor=E8A54B)
-![HTML](https://img.shields.io/badge/HTML-FFE5EC?style=for-the-badge&logo=html5&logoColor=F7A8C4)
-![CSS](https://img.shields.io/badge/CSS-FFF3D6?style=for-the-badge&logo=css3&logoColor=E8A54B)
-![MySQL](https://img.shields.io/badge/MySQL-FFE5EC?style=for-the-badge&logo=mysql&logoColor=F7A8C4)
-![Git](https://img.shields.io/badge/Git-FFF3D6?style=for-the-badge&logo=git&logoColor=E8A54B)
-![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="22"/> Certificações
+
+<table>
+<tr>
+<td align="center" width="260">
+<img src="https://img.shields.io/badge/ITIL%204-Foundation-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=FFC0CB"/><br/>
+<sub>Gestão de Serviços de TI</sub>
+</td>
+<td align="center" width="260">
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-FF69B4?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=FFC0CB"/><br/>
+<sub>Segurança da Informação</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<h2>♡ aplicações & ferramentas</h2>
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/ribbon_1f380.png" width="28"/> Tech Stack & Ferramentas
 
 <div align="center">
 
-![VSCode](https://img.shields.io/badge/VS%20Code-FFE5EC?style=for-the-badge&logo=visualstudiocode&logoColor=F7A8C4)
-![Eclipse](https://img.shields.io/badge/Eclipse-FFF3D6?style=for-the-badge&logo=eclipseide&logoColor=E8A54B)
-![Figma](https://img.shields.io/badge/Figma-FFE5EC?style=for-the-badge&logo=figma&logoColor=F7A8C4)
-![Canva](https://img.shields.io/badge/Canva-FFF3D6?style=for-the-badge&logo=canva&logoColor=E8A54B)
-![PowerBI](https://img.shields.io/badge/Power%20BI-FFE5EC?style=for-the-badge&logo=powerbi&logoColor=F7A8C4)
-![Teams](https://img.shields.io/badge/Microsoft%20Teams-FFF3D6?style=for-the-badge&logo=microsoftteams&logoColor=E8A54B)
-![Outlook](https://img.shields.io/badge/Outlook-FFE5EC?style=for-the-badge&logo=microsoftoutlook&logoColor=F7A8C4)
-![Excel](https://img.shields.io/badge/Excel-FFF3D6?style=for-the-badge&logo=microsoftexcel&logoColor=E8A54B)
-![Word](https://img.shields.io/badge/Word-FFE5EC?style=for-the-badge&logo=microsoftword&logoColor=F7A8C4)
+*Linguagens*
+
+<img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/SQL-FADADD?style=for-the-badge&logo=mysql&logoColor=8B0045"/>
+
+*Front-end & Design*
+
+<img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/Figma-F8C8DC?style=for-the-badge&logo=figma&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-FFC0CB?style=for-the-badge&logo=tailwindcss&logoColor=8B0045"/>
+
+*Segurança & Suporte*
+
+<img src="https://img.shields.io/badge/ITIL%204-FADADD?style=for-the-badge&logo=readthedocs&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/InfoSec-FFD1DC?style=for-the-badge&logo=shieldsdotio&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/Networking-F8C8DC?style=for-the-badge&logo=cisco&logoColor=8B0045"/>
+
+*Ferramentas*
+
+<img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/VS%20Code-F8C8DC?style=for-the-badge&logo=visualstudiocode&logoColor=8B0045"/>
+<img src="https://img.shields.io/badge/Notion-FADADD?style=for-the-badge&logo=notion&logoColor=8B0045"/>
 
 </div>
 
 <br/>
 
-<h2>✧ atualmente</h2>
-
-Aprendendo programação, criando projetos e explorando Web Design.
-
-Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que realmente combina comigo.
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="28"/> GitHub Stats — Girl Tech Edition
 
 <div align="center">
 
-♡ learn · explore · create · grow ♡
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=livmoorais&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=8B0045&bg_color=FFF0F5&border_radius=20"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmoorais&layout=compact&hide_border=true&title_color=FF69B4&text_color=8B0045&bg_color=FFF0F5&border_radius=20"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=8B0045&currStreakNum=8B0045&sideNums=8B0045&dates=C48793&border_radius=20"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=livmoorais&bg_color=FFF0F5&color=8B0045&line=FF69B4&point=FF1493&area=true&hide_border=true&area_color=FFC0CB"/>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/livmoorais/livmoorais/output/pink-snake.svg" alt="snake contribution graph"/>
+
+<sub>💡 Snake gerado via GitHub Actions — <a href="https://github.com/Platane/snk">Platane/snk</a>, com paleta rosa/lilás personalizada.</sub>
 
 </div>
 
 <br/>
 
-<h2>✦ GitHub</h2>
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/pink-bow_1fa77.png" width="26"/> Vamos nos conectar?
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF6F9&ring=F7A8C4&fire=E8A54B&currStreakLabel=F7A8C4" width="60%" />
+<a href="https://github.com/livmoorais">
+<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=8B0045"/>
+</a>
+<a href="https://www.linkedin.com/in/lívia-morais-906176360">
+<img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0045"/>
+</a>
+<a href="mailto:liviasmorais2428@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-F8C8DC?style=for-the-badge&logo=gmail&logoColor=8B0045"/>
+</a>
+
+<br/><br/>
+
+<i>"Código com brilho, café e um toque de rosa." 🎀</i>
 
 </div>
 
 <br/>
 
-<h2>♡ contato</h2>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/livmoorais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF3D6?style=for-the-badge&logo=linkedin&logoColor=E8A54B)](https://www.linkedin.com/in/lívia-morais-906176360/)
-[![Email](https://img.shields.io/badge/Email-FFE5EC?style=for-the-badge&logo=gmail&logoColor=F7A8C4)](mailto:liviasmorais2428@gmail.com)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer" width="100%"/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livmoorais/livmoorais/output/pink-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/livmoorais/livmoorais/output/pink-snake.svg" width="80%" />
-</picture>
-
-♡ ✦ ♡
-
-liviasmorais2428@gmail.com
-
-Thanks for visiting my little corner of GitHub ♡
-
-</div>
-[8:31 PM, 31/08/2026] Lívia: <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,50:FFC98B,100:FFF3B0&height=200&section=header&text=Lívia%20Morais&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=computer%20science%20student%20·%20girl%20in%20tech&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&pause=1200&color=F7A8C4&center=true&vCenter=true&width=440&lines=exploring+web+design+%E2%9C%A6;learning+something+new+every+day;code+%2B+creativity+%2B+aesthetics;LM+♡" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/livmoorais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF3D6?style=for-the-badge&logo=linkedin&logoColor=E8A54B)](https://www.linkedin.com/in/lívia-morais-906176360/)
-[![Email](https://img.shields.io/badge/Email-FFE5EC?style=for-the-badge&logo=gmail&logoColor=F7A8C4)](mailto:liviasmorais2428@gmail.com)
-
-</div>
-
-<br/>
-
-<h2>♡ sobre mim</h2>
-
-Sou Lívia, estudante de Ciência da Computação e atualmente trabalho com suporte técnico.
-
-Estou explorando diferentes áreas da tecnologia para descobrir qual caminho combina comigo.
-
-Tenho interesse em Web Design, interfaces, programação, desenvolvimento e tecnologia.
-
-Gosto de projetos que misturam código, criatividade e estética.
-
-<br/>
-
-<h2>✦ interesses</h2>
-
-Web Design · Programação · Interfaces · Desenvolvimento
-
-Tecnologia · Segurança da Informação · Criatividade
-
-<br/>
-
-<h2>⌘ tecnologias</h2>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-FFE5EC?style=for-the-badge&logo=openjdk&logoColor=F7A8C4)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF3D6?style=for-the-badge&logo=javascript&logoColor=E8A54B)
-![HTML](https://img.shields.io/badge/HTML-FFE5EC?style=for-the-badge&logo=html5&logoColor=F7A8C4)
-![CSS](https://img.shields.io/badge/CSS-FFF3D6?style=for-the-badge&logo=css3&logoColor=E8A54B)
-![MySQL](https://img.shields.io/badge/MySQL-FFE5EC?style=for-the-badge&logo=mysql&logoColor=F7A8C4)
-![Git](https://img.shields.io/badge/Git-FFF3D6?style=for-the-badge&logo=git&logoColor=E8A54B)
-![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)
-
-</div>
-
-<br/>
-
-<h2>♡ aplicações & ferramentas</h2>
-
-<div align="center">
-
-![VSCode](https://img.shields.io/badge/VS%20Code-FFE5EC?style=for-the-badge&logo=visualstudiocode&logoColor=F7A8C4)
-![Eclipse](https://img.shields.io/badge/Eclipse-FFF3D6?style=for-the-badge&logo=eclipseide&logoColor=E8A54B)
-![Figma](https://img.shields.io/badge/Figma-FFE5EC?style=for-the-badge&logo=figma&logoColor=F7A8C4)
-![Canva](https://img.shields.io/badge/Canva-FFF3D6?style=for-the-badge&logo=canva&logoColor=E8A54B)
-![PowerBI](https://img.shields.io/badge/Power%20BI-FFE5EC?style=for-the-badge&logo=powerbi&logoColor=F7A8C4)
-![Teams](https://img.shields.io/badge/Microsoft%20Teams-FFF3D6?style=for-the-badge&logo=microsoftteams&logoColor=E8A54B)
-![Outlook](https://img.shields.io/badge/Outlook-FFE5EC?style=for-the-badge&logo=microsoftoutlook&logoColor=F7A8C4)
-![Excel](https://img.shields.io/badge/Excel-FFF3D6?style=for-the-badge&logo=microsoftexcel&logoColor=E8A54B)
-![Word](https://img.shields.io/badge/Word-FFE5EC?style=for-the-badge&logo=microsoftword&logoColor=F7A8C4)
-
-</div>
-
-<br/>
-
-<h2>✧ atualmente</h2>
-
-Aprendendo programação, criando projetos e explorando Web Design.
-
-Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que realmente combina comigo.
-
-<div align="center">
-
-♡ learn · explore · create · grow ♡
-
-</div>
-
-<br/>
-
-<h2>✦ GitHub</h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF6F9&ring=F7A8C4&fire=E8A54B&currStreakLabel=F7A8C4" width="60%" />
-
-</div>
-
-<br/>
-
-<h2>♡ contato</h2>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/livmoorais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF3D6?style=for-the-badge&logo=linkedin&logoColor=E8A54B)](https://www.linkedin.com/in/lívia-morais-906176360/)
-[![Email](https://img.shields.io/badge/Email-FFE5EC?style=for-the-badge&logo=gmail&logoColor=F7A8C4)](mailto:liviasmorais2428@gmail.com)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3B0,50:FFC98B,100:FFD1E8&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-♡ ✦ ♡
-
-liviasmorais2428@gmail.com
-
-Thanks for visiting my little corner of GitHub ♡
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
