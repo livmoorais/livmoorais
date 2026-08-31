@@ -1,150 +1,79 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=L%C3%ADvia%20Morais&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Girl%20in%20Tech%20%F0%9F%8E%80%20Curiosa%20%7C%20Criativa%20%7C%20Rosa%20sempre&descAlignY=58&descSize=18&animation=twinkling" alt="banner"/>
-
-<!-- SIGLAS ESTILIZADAS -->
-<img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=45&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&height=80&lines=L.M." alt="LM"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/vFKqfRQjNe4gaC2Yw3/giphy.gif" width="180" alt="hello kitty y2k gif"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+L%C3%ADvia!+%F0%9F%8E%80;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Suporte+T%C3%A9cnico+%7C+Cyber+%26+Curiosidade+%F0%9F%94%90;Codando+com+brilho+e+prop%C3%B3sito+%E2%9C%A8" alt="typing svg"/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F8E1E7&height=180&section=header&text=L%C3%ADvia%20Morais%20%E2%99%A1&fontSize=42&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=computer%20science%20student%20%E2%80%A2%20girl%20in%20tech&descAlignY=62&descSize=16"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%E2%99%A1;Future+Software+Developer;Learning+%26+Building;Technology+%E2%80%A2+Creativity+%E2%80%A2+Ideas" alt="Typing Animation"/>
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180">
 </div>
 
-<br/>
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/pink-heart_1f49f.png" width="28"/> Sobre mim
-
-<table align="center" border="0" cellspacing="0" cellpadding="15">
-<tr>
-<td width="55%" valign="top">
-
-yaml
-Perfil:
-  nome: "Lívia Morais"
-  formação: "Ciência da Computação"
-  atuação_atual: "Suporte Técnico"
-  traços: ["curiosa 🔎", "criativa 🎨", "sempre estudando 📚"]
-  paixões: ["Web Design", "Segurança da Informação", "estética + código"]
-  status: "construindo coisas fofas e funcionais 🩰"
-
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+⸻
 
 <div align="center">
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="22"/> Certificações
-
-<table>
-<tr>
-<td align="center" width="260">
-<img src="https://img.shields.io/badge/ITIL%204-Foundation-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=FFC0CB"/><br/>
-<sub>Gestão de Serviços de TI</sub>
-</td>
-<td align="center" width="260">
-<img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-FF69B4?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=FFC0CB"/><br/>
-<sub>Segurança da Informação</sub>
-</td>
-</tr>
-</table>
+♡ about me
 
 </div>
 
-<br/>
+Olá! Eu sou a Lívia Morais ♡
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/ribbon_1f380.png" width="28"/> Tech Stack & Ferramentas
+Sou estudante de Ciência da Computação, apaixonada por tecnologia, programação e tudo que envolve criatividade e inovação.
+
+Atualmente estou construindo minha base na área de desenvolvimento, aprendendo novas linguagens, ferramentas e conceitos enquanto descubro quais caminhos dentro da tecnologia mais combinam comigo.
+
+Gosto de unir tecnologia + criatividade + organização, e acredito que código também pode ter personalidade. ✦
+
+<br>
+<div align="center">
+
+computer science student
+future developer
+always learning ♡
+
+</div>
+
+⸻
 
 <div align="center">
 
-*Linguagens*
+✦ applications & tools
 
-<img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/SQL-FADADD?style=for-the-badge&logo=mysql&logoColor=8B0045"/>
-
-*Front-end & Design*
-
-<img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/Figma-F8C8DC?style=for-the-badge&logo=figma&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-FFC0CB?style=for-the-badge&logo=tailwindcss&logoColor=8B0045"/>
-
-*Segurança & Suporte*
-
-<img src="https://img.shields.io/badge/ITIL%204-FADADD?style=for-the-badge&logo=readthedocs&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/InfoSec-FFD1DC?style=for-the-badge&logo=shieldsdotio&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/Networking-F8C8DC?style=for-the-badge&logo=cisco&logoColor=8B0045"/>
-
-*Ferramentas*
-
-<img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/VS%20Code-F8C8DC?style=for-the-badge&logo=visualstudiocode&logoColor=8B0045"/>
-<img src="https://img.shields.io/badge/Notion-FADADD?style=for-the-badge&logo=notion&logoColor=8B0045"/>
-
+<br>
+<img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Eclipse-1A1A1A?style=for-the-badge&logo=eclipseide&logoColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Canva-1A1A1A?style=for-the-badge&logo=canva&logoColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=1A1A1A"/>
 </div>
 
-<br/>
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="28"/> GitHub Stats — Girl Tech Edition
+⸻
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=livmoorais&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=8B0045&bg_color=FFF0F5&border_radius=20"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmoorais&layout=compact&hide_border=true&title_color=FF69B4&text_color=8B0045&bg_color=FFF0F5&border_radius=20"/>
+♡ currently learning
 
-<br/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=8B0045&currStreakNum=8B0045&sideNums=8B0045&dates=C48793&border_radius=20"/>
+Java   ✦   JavaScript   ✦   HTML   ✦   CSS   ✦   MySQL
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=livmoorais&bg_color=FFF0F5&color=8B0045&line=FF69B4&point=FF1493&area=true&hide_border=true&area_color=FFC0CB"/>
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/livmoorais/livmoorais/output/pink-snake.svg" alt="snake contribution graph"/>
-
-<sub>💡 Snake gerado via GitHub Actions — <a href="https://github.com/Platane/snk">Platane/snk</a>, com paleta rosa/lilás personalizada.</sub>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=FFB6C1&center=true&vCenter=true&width=500&lines=learning+something+new+every+day+%E2%99%A1;one+line+of+code+at+a+time...;loading+my+developer+era+%E2%9C%A6" alt="Currently learning"/>
 </div>
 
-<br/>
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/pink-bow_1fa77.png" width="26"/> Vamos nos conectar?
+⸻
 
 <div align="center">
+<br>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160">
 
-<a href="https://github.com/livmoorais">
-<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=8B0045"/>
-</a>
-<a href="https://www.linkedin.com/in/lívia-morais-906176360">
-<img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0045"/>
-</a>
-<a href="mailto:liviasmorais2428@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F8C8DC?style=for-the-badge&logo=gmail&logoColor=8B0045"/>
-</a>
+♡ thanks for visiting my little corner of GitHub ♡
 
-<br/><br/>
+made with code & a little bit of pink
 
-<i>"Código com brilho, café e um toque de rosa." 🎀</i>
-
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8E1E7&height=100&section=footer"/>
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
