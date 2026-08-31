@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/hello-kitty-tech.gif" width="180" />
-
-<h1>LM ♡</h1>
+<h1>˚ ✦ LM ♡ ✦ ˚</h1>
 
 <h3>Lívia Morais</h3>
 
@@ -12,7 +10,7 @@ computer science student · girl in tech
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/livmoorais)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF3D6?style=for-the-badge&logo=linkedin&logoColor=E8A54B)](https://www.linkedin.com/in/lívia-morais-906176360/)
 [![Email](https://img.shields.io/badge/Email-FFE5EC?style=for-the-badge&logo=gmail&logoColor=F7A8C4)](mailto:liviasmorais2428@gmail.com)
 
@@ -92,12 +90,12 @@ Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF6F9&title_color=F7A8C4&icon_color=E8A54B&text_color=8A7F8D" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=FFF6F9&title_color=F7A8C4&text_color=8A7F8D" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=livmoorais&show_icons=true&hide_border=true&bg_color=FFF6F9&title_color=F7A8C4&icon_color=E8A54B&text_color=8A7F8D" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmoorais&layout=compact&hide_border=true&bg_color=FFF6F9&title_color=F7A8C4&text_color=8A7F8D" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=FFF6F9&ring=F7A8C4&fire=E8A54B&currStreakLabel=F7A8C4" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=livmoorais&hide_border=true&background=FFF6F9&ring=F7A8C4&fire=E8A54B&currStreakLabel=F7A8C4" width="60%" />
 
 </div>
 
@@ -107,7 +105,7 @@ Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que real
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=F7A8C4)](https://github.com/livmoorais)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF3D6?style=for-the-badge&logo=linkedin&logoColor=E8A54B)](https://www.linkedin.com/in/lívia-morais-906176360/)
 [![Email](https://img.shields.io/badge/Email-FFE5EC?style=for-the-badge&logo=gmail&logoColor=F7A8C4)](mailto:liviasmorais2428@gmail.com)
 
@@ -116,8 +114,6 @@ Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que real
 <br/>
 
 <div align="center">
-
-<img src="./assets/pink-tech.gif" width="180" />
 
 ♡ ✦ ♡
 
