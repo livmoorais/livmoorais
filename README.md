@@ -16,17 +16,11 @@ computer science student · girl in tech
 
 <br><br>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-F7C9DA?style=flat-square&logo=github&logoColor=3A3034">
-</a>
-
-<a href="https://www.linkedin.com/in/lívia-morais-906176360/">
-<img src="https://img.shields.io/badge/LinkedIn-F9D7A8?style=flat-square&logo=linkedin&logoColor=3A3034">
-</a>
-
-<a href="mailto:liviasmorais2428@gmail.com">
-<img src="https://img.shields.io/badge/Email-F7B7C9?style=flat-square&logo=gmail&logoColor=3A3034">
-</a>
+<a href="https://github.com/SEU_USUARIO">GitHub</a>
+&nbsp; ♡ &nbsp;
+<a href="https://www.linkedin.com/in/lívia-morais-906176360/">LinkedIn</a>
+&nbsp; ♡ &nbsp;
+<a href="mailto:liviasmorais2428@gmail.com">Email</a>
 
 <br><br>
 
@@ -44,11 +38,11 @@ computer science student · girl in tech
 
 Sou Lívia, estudante de Ciência da Computação e atualmente trabalho com suporte técnico.
 
-Estou explorando diferentes áreas da tecnologia para descobrir onde quero construir minha carreira.
+Estou explorando diferentes áreas da tecnologia para descobrir qual caminho combina comigo.
 
-Tenho interesse em desenvolvimento, Web Design, interfaces, programação e tecnologia.
+Tenho interesse em Web Design, interfaces, programação, desenvolvimento e tecnologia.
 
-Gosto especialmente de projetos que misturam código, criatividade e estética.
+Gosto de projetos que misturam código, criatividade e estética.
 
 <br>
 
@@ -60,10 +54,6 @@ Web Design · Programação · Interfaces · Desenvolvimento
 
 Tecnologia · Segurança da Informação · Criatividade
 
-<br><br>
-
-♡ ✦ ♡
-
 </div>
 
 <br>
@@ -72,9 +62,7 @@ Tecnologia · Segurança da Informação · Criatividade
 
 <h2>⌘ tecnologias</h2>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github&theme=light">
+Java · JavaScript · HTML · CSS · MySQL · Git · GitHub
 
 </div>
 
@@ -84,23 +72,9 @@ Tecnologia · Segurança da Informação · Criatividade
 
 <h2>♡ aplicações & ferramentas</h2>
 
-<br>
+VS Code · Eclipse · Figma · Canva · Power BI
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,git,github&theme=light">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Canva-F7C9DA?style=flat-square&logo=canva&logoColor=3A3034">
-
-<img src="https://img.shields.io/badge/Power%20BI-F9D7A8?style=flat-square&logo=powerbi&logoColor=3A3034">
-
-<img src="https://img.shields.io/badge/Microsoft%20Teams-F7B7C9?style=flat-square&logo=microsoftteams&logoColor=3A3034">
-
-<img src="https://img.shields.io/badge/Outlook-F7C9DA?style=flat-square&logo=microsoftoutlook&logoColor=3A3034">
-
-<img src="https://img.shields.io/badge/Excel-F9D7A8?style=flat-square&logo=microsoftexcel&logoColor=3A3034">
-
-<img src="https://img.shields.io/badge/Word-F7B7C9?style=flat-square&logo=microsoftword&logoColor=3A3034">
+Microsoft Teams · Outlook · Excel · Word
 
 </div>
 
@@ -110,9 +84,9 @@ Tecnologia · Segurança da Informação · Criatividade
 
 <h2>✧ atualmente</h2>
 
-Estou aprendendo programação, criando projetos e explorando Web Design.
+Aprendendo programação, criando projetos e explorando Web Design.
 
-Quero experimentar diferentes áreas da tecnologia até encontrar o caminho que realmente combina comigo.
+Quero conhecer diferentes áreas da tecnologia até encontrar o caminho que realmente combina comigo.
 
 <br><br>
 
@@ -128,15 +102,19 @@ Quero experimentar diferentes áreas da tecnologia até encontrar o caminho que 
 
 <br>
 
+<a href="https://github.com/SEU_USUARIO">
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF9FB&title_color=E7A1BB&icon_color=F2B27F&text_color=4A4145&rank_icon=github">
+</a>
 
 <br><br>
 
+<a href="https://github.com/SEU_USUARIO">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=FFF9FB&title_color=E7A1BB&text_color=4A4145">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=FFF9FB&ring=E7A1BB&fire=F2B27F&currStreakLabel=E7A1BB&sideLabels=E7A1BB&currStreakNum=4A4145&sideNums=4A4145&dates=9A8D92">
+♡ ✦ ♡
 
 </div>
 
@@ -153,7 +131,7 @@ Quero experimentar diferentes áreas da tecnologia até encontrar o caminho que 
 <br><br>
 
 <a href="mailto:liviasmorais2428@gmail.com">
-<img src="https://img.shields.io/badge/liviasmorais2428%40gmail.com-F7C9DA?style=flat-square&logo=gmail&logoColor=3A3034">
+liviasmorais2428@gmail.com
 </a>
 
 <br><br>
