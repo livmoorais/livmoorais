@@ -20,7 +20,7 @@
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/lívia-morais-906176360?utm_source=share_via&utm_content=profile&utm_medium=member_ios>
 <img src="https://img.shields.io/badge/linkedin-f4a6c1?style=flat-square&logo=linkedin&logoColor=111111">
 </a>
 
@@ -96,8 +96,6 @@ Uma das áreas que mais gosto de explorar é *Web Design*, principalmente pela p
 <img src="https://img.shields.io/badge/Canva-f4a6c1?style=flat-square&logo=canva&logoColor=111111">
 
 <br><br>
-
-<sub>macOS · MacBook Pro M1</sub>
 
 </div>
 
