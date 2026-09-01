@@ -20,7 +20,7 @@ Olá! Eu sou a **Lívia Morais** ✦
 
 Estudante de **Ciência da Computação** e profissional de **Suporte Técnico**. No dia a dia, uno a resolução de problemas técnicos a uma curiosidade constante por aprender coisas novas.
 
-Gosto de pensar em tecnologia como um espaço para criar com método — entender o problema, organizar as ideias e construir a solução.
+Gosto de pensar em tecnologia como um espaço para criar com método, entender o problema, organizar as ideias e construir a solução.
 
 <br/>
 
@@ -67,7 +67,7 @@ Gosto de pensar em tecnologia como um espaço para criar com método — entende
 
 <br/>
 
-Java &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; MySQL
+Java &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Python 
 
 <sub>one line of code at a time</sub>
 
